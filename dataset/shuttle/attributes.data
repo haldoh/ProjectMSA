@@ -1,0 +1,51 @@
+#attribute number
+attribute_number = 10
+#attribute 0
+attribute_name_0 = attribute0
+attribute_type_0 = numerical
+attribute_min_range_0 = infinite
+attribute_max_range_0 = infinite
+#attribute 1
+attribute_name_1 = attribute1
+attribute_type_1 = numerical
+attribute_min_range_1 = infinite
+attribute_max_range_1 = infinite
+#attribute 2
+attribute_name_2 = attribute2
+attribute_type_2 = numerical
+attribute_min_range_2 = infinite
+attribute_max_range_2 = infinite
+#attribute 3
+attribute_name_3 = attribute3
+attribute_type_3 = numerical
+attribute_min_range_3 = infinite
+attribute_max_range_3 = infinite
+#attribute 4
+attribute_name_4 = attribute4
+attribute_type_4 = numerical
+attribute_min_range_4 = infinite
+attribute_max_range_4 = infinite
+#attribute 5
+attribute_name_5 = attribute5
+attribute_type_5 = numerical
+attribute_min_range_5 = infinite
+attribute_max_range_5 = infinite
+#attribute 6
+attribute_name_6 = attribute6
+attribute_type_6 = numerical
+attribute_min_range_6 = infinite
+attribute_max_range_6 = infinite
+#attribute 7
+attribute_name_7 = attribute7
+attribute_type_7 = numerical
+attribute_min_range_7 = infinite
+attribute_max_range_7 = infinite
+#attribute 8
+attribute_name_8 = attribute8
+attribute_type_8 = numerical
+attribute_min_range_8 = infinite
+attribute_max_range_8 = infinite
+#attribute 9
+attribute_name_9 = class
+attribute_type_9 = categorical
+attribute_values_9 = {1,2,3,4,5,6,7}

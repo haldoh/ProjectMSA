@@ -1,0 +1,51 @@
+#attribute number
+attribute_number = 11
+#Card 1
+#attribute 0
+attribute_name_0 = Suit of card #1
+attribute_type_0 = categorical
+attribute_values_0 = {1,2,3,4}
+#attribute 1
+attribute_name_1 = Rank of card #1
+attribute_type_1 = categorical
+attribute_values_1 = {1,2,3,4,5,6,7,8,9,10,11,12,13}
+#Card 2
+#attribute 2
+attribute_name_2 = Suit of card #2
+attribute_type_2 = categorical
+attribute_values_2 = {1,2,3,4}
+#attribute 3
+attribute_name_3 = Rank of card #2
+attribute_type_3 = categorical
+attribute_values_3 = {1,2,3,4,5,6,7,8,9,10,11,12,13}
+#Card 3
+#attribute 4
+attribute_name_4 = Suit of card #3
+attribute_type_4 = categorical
+attribute_values_4 = {1,2,3,4}
+#attribute 5
+attribute_name_5 = Rank of card #3
+attribute_type_5 = categorical
+attribute_values_5 = {1,2,3,4,5,6,7,8,9,10,11,12,13}
+#Card 4
+#attribute 6
+attribute_name_6 = Suit of card #4
+attribute_type_6 = categorical
+attribute_values_6 = {1,2,3,4}
+#attribute 7
+attribute_name_7 = Rank of card #4
+attribute_type_7 = categorical
+attribute_values_7 = {1,2,3,4,5,6,7,8,9,10,11,12,13}
+#Card 5
+#attribute 8
+attribute_name_8 = Suit of card #5
+attribute_type_8 = categorical
+attribute_values_8 = {1,2,3,4}
+#attribute 9
+attribute_name_9 = Rank of card #5
+attribute_type_9 = categorical
+attribute_values_9 = {1,2,3,4,5,6,7,8,9,10,11,12,13}
+#attribute 10
+attribute_name_10 = Poker hand
+attribute_type_10 = categorical
+attribute_values_10 = {0,1,2,3,4,5,6,7,8,9}

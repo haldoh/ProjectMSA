@@ -1,0 +1,68 @@
+#attribute number
+attribute_number = 15
+#attribute 0
+attribute_name_0 = age
+attribute_type_0 = numerical
+attribute_min_range_0 = infinite
+attribute_max_range_0 = infinite
+#attribute 1
+attribute_name_1 = workclass
+attribute_type_1 = categorical
+attribute_values_1 = {Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked}
+#attribute 2
+attribute_name_2 = fnlwgt
+attribute_type_2 = numerical
+attribute_min_range_2 = infinite
+attribute_max_range_2 = infinite
+#attribute 3
+attribute_name_3 = education
+attribute_type_3 = categorical
+attribute_values_3 = {Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool}
+#attribute 4
+attribute_name_4 = education-num
+attribute_type_4 = numerical
+attribute_min_range_4 = infinite
+attribute_max_range_4 = infinite
+#attribute 5
+attribute_name_5 = marital-status
+attribute_type_5 = categorical
+attribute_values_5 = {Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse}
+#attribute 6
+attribute_name_6 = occupation
+attribute_type_6 = categorical
+attribute_values_6 = {Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces}
+#attribute 7
+attribute_name_7 = relationship
+attribute_type_7 = categorical
+attribute_values_7 = {Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried}
+#attribute 8
+attribute_name_8 = race
+attribute_type_8 = categorical
+attribute_values_8 = {White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black}
+#attribute 9
+attribute_name_9 = sex
+attribute_type_9 = categorical
+attribute_values_9 = {Female, Male}
+#attribute 10
+attribute_name_10 = capital-gain
+attribute_type_10 = numerical
+attribute_min_range_10 = infinite
+attribute_max_range_10 = infinite
+#attribute 11
+attribute_name_11 = capital-loss
+attribute_type_11 = numerical
+attribute_min_range_11 = infinite
+attribute_max_range_11 = infinite
+#attribute 12
+attribute_name_12 = hours-per-week
+attribute_type_12 = numerical
+attribute_min_range_12 = infinite
+attribute_max_range_12 = infinite
+#attribute 13
+attribute_name_13 = native-country
+attribute_type_13 = categorical
+attribute_values_13 = {United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands}
+#attribute 14
+attribute_name_14 = income
+attribute_type_14 = categorical
+attribute_values_14 = {>50K, <=50K}
